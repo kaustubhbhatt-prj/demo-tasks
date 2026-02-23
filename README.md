@@ -1,5 +1,4 @@
 # Demo-assignments
-All the assignments from the python course of Tutedude.com
 
 # Assignment1:-
 # Task 1: Perform Basic Mathematical Operations
