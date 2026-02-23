@@ -1,4 +1,4 @@
-# TuteDude-assignments
+# Demo-assignments
 All the assignments from the python course of Tutedude.com
 
 # Assignment1:-
